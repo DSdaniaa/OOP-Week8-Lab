@@ -1,0 +1,7 @@
+C:\OOP\Lab8\Lab8 problem 3\Lab8 problem 3\bin\Debug\Lab8 problem 3.exe.config
+C:\OOP\Lab8\Lab8 problem 3\Lab8 problem 3\bin\Debug\Lab8 problem 3.exe
+C:\OOP\Lab8\Lab8 problem 3\Lab8 problem 3\bin\Debug\Lab8 problem 3.pdb
+C:\OOP\Lab8\Lab8 problem 3\Lab8 problem 3\obj\Debug\Lab8 problem 3.csproj.AssemblyReference.cache
+C:\OOP\Lab8\Lab8 problem 3\Lab8 problem 3\obj\Debug\Lab8 problem 3.csproj.CoreCompileInputs.cache
+C:\OOP\Lab8\Lab8 problem 3\Lab8 problem 3\obj\Debug\Lab8 problem 3.exe
+C:\OOP\Lab8\Lab8 problem 3\Lab8 problem 3\obj\Debug\Lab8 problem 3.pdb
